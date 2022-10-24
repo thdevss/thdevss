@@ -1,12 +1,12 @@
 <h1 align="center">Hi 👋, I'm Pichet</h1>
-<h4 align="center">A lazy developer from Nowhere, You can call me "CHET"</h4>
+<h4 align="center">A lazy developer..., You can call me "CHET"</h4>
 
 ---
 
 
 - 👨‍💻 4++ Years experienced in Web Developer (Backend / Frontend) role
 
-- 🌱 I’m currently learning **Laravel, .NET Core (C#)**
+- 🌱 I’m currently learning **Laravel, Vue.js (Nuxt)**
 
 - 👨‍💻 All of my projects are available at [https://me.14devlab.co/p](https://me.14devlab.co/p)
 
