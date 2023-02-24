@@ -4,7 +4,7 @@
 ---
 
 
-- 👨‍💻 4++ Years experienced in Web Developer (Backend / Frontend) role
+- 👨‍💻 5++ Years experienced in Web Developer (Backend / Frontend) role
 
 - 🌱 I’m currently learning **Laravel, Vue.js (Nuxt)**
 
