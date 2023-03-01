@@ -34,14 +34,14 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/nginx/nginx-original.svg"  title="Nginx" alt="Nginx" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" alt="Git" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/apache/apache-original-wordmark.svg" title="apache" alt="apache" width="40" height="40"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/trello/trello-original-wordmark.svg" title="trello" alt="trello" width="40" height="40"/>  
+  <img src="https://github.com/devicons/devicon/blob/master/icons/trello/trello-plain-wordmark.svg" title="trello" alt="trello" width="40" height="40"/>  
   <img src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-original-wordmark.svg" title="tailwindcss" alt="tailwindcss" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/woocommerce/woocommerce-original-wordmark.svg" title="woocommerce" alt="woocommerce" width="40" height="40"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/wordpress/wordpress-original-wordmark.svg" title="wordpress" alt="wordpress" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/wordpress/wordpress-plain-wordmark.svg" title="wordpress" alt="wordpress" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/ssh/ssh-original-wordmark.svg" title="ssh" alt="ssh" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/redis/redis-original-wordmark.svg" title="redis" alt="redis" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/nuxtjs/nuxtjs-original-wordmark.svg" title="nuxtjs" alt="nuxtjs" width="40" height="40"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original-wordmark.svg" title="figma" alt="figma" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" title="figma" alt="figma" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/express/express-original-wordmark.svg" title="express" alt="express" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/appwrite/appwrite-original-wordmark.svg" title="appwrite" alt="appwrite" width="40" height="40"/>
 </div>
