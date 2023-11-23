@@ -6,7 +6,7 @@
 
 - 👨‍💻 5++ Years experienced in Web Developer (Backend / Frontend) role
 
-- 🌱 I’m currently learning **Laravel, Vue.js (Nuxt)**
+- 🌱 I’m currently learning **Golang, Nuxt.js**
 
 - 👨‍💻 All of my projects are available at [https://me.14devlab.co/p](https://me.14devlab.co/p)
 
