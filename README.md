@@ -4,15 +4,11 @@
 ---
 
 
-- 👨‍💻 6++ Years experienced in Web Developer (Backend / Frontend) role
+- 👨‍💻 7++ Years experienced in Web Developer (Backend / Frontend) role
 
 - 🌱 I’m currently learning **Golang, React (Next.js)**
 
-- 👨‍💻 All of my projects are available at [https://me.14devlab.co/p](https://me.14devlab.co/p)
-
 - 📫 How to reach me **me@14devlab.co**
-
-- 📄 Know about my experiences [https://me.14devlab.co/r](https://me.14devlab.co/r)
 
 
 ---
